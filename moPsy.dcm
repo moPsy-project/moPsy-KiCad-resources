@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1185
+D LDO Regulator adjustable 2.5 ... 25 V
+$ENDCMP
+#
+#End Doc Library
