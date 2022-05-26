@@ -7,13 +7,8 @@ They will be ordered and sorted into proper repsositories later.
 
 ## License
 
-© 2021-2022 Stefan Haun
+![](doc/oshw-logo-100-px.png "OpenSource Hardware Logo")   ![](doc/CC-by-sa.png "CC BY-SA Logo")
+
+Symbols and footprint libraries are published as [Open Hardware](https://www.oshwa.org/) under the [CC BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The moPsy logo and derrived artifacts are © 2021-2022 Stefan Haun
-
-The rest I plan to publish this repository unter an open hardware license,
-but still have to research the best option. Until then the contents and
-contributions are copyrighted to myself.
-
-Please let me know if you want to use any if its contents. This is merely a
-legal necessity to allow an easy license switch later on.
