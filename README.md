@@ -13,4 +13,4 @@ The [circuit attic](circuit_attic.kicad_sch) contains parts of schematics that h
 
 Symbols and footprint libraries are published as [Open Hardware](https://www.oshwa.org/) under the [CC BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-The moPsy logo and derrived artifacts are © 2021-2022 Stefan Haun
+The moPsy logo and derrived artifacts are © 2021-2023 Stefan Haun
