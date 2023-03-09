@@ -13,8 +13,10 @@ KiCad version 7 is the current baseline for accessing files in this repository.
 
 ## License
 
-![](doc/oshw-logo-100-px.png "OpenSource Hardware Logo")   ![](doc/CC-by-sa.png "CC BY-SA Logo")
+[![](doc/oshw-logo-100-px.png "OpenSource Hardware Logo")](https://www.oshwa.org/)   [![](doc/CC-by-sa.png "CC BY-SA Logo")](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Symbols and footprint libraries are published as [Open Hardware](https://www.oshwa.org/) under the [CC BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/).
+Symbols and footprint libraries are published as [Open Hardware](https://www.oshwa.org/) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+BY: Stefan Haun (mail@tuxathome.de)
 
 The moPsy logo and derrived artifacts are © 2021-2023 Stefan Haun
