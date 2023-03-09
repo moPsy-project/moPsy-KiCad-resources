@@ -3,7 +3,7 @@
 > Various resources I use in my [KiCad](https://www.kicad.org/) projects
 
 Currently just a dump of my KiCad resources (symbols, footprints).
-They will be ordered and sorted into proper repsositories later.
+They will be ordered and sorted into proper repositories later.
 
 The [circuit attic](circuit_attic.kicad_sch) contains parts of schematics that have not been used, but are stored for later reference.
 
@@ -19,4 +19,4 @@ Symbols and footprint libraries are published as [Open Hardware](https://www.osh
 
 BY: Stefan Haun (mail@tuxathome.de)
 
-The moPsy logo and derrived artifacts are © 2021-2023 Stefan Haun
+The moPsy logo and derived artifacts are © 2021-2023 Stefan Haun
