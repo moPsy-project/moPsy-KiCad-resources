@@ -7,6 +7,10 @@ They will be ordered and sorted into proper repsositories later.
 
 The [circuit attic](circuit_attic.kicad_sch) contains parts of schematics that have not been used, but are stored for later reference.
 
+## Dependencies
+
+KiCad version 7 is the current baseline for accessing files in this repository.
+
 ## License
 
 ![](doc/oshw-logo-100-px.png "OpenSource Hardware Logo")   ![](doc/CC-by-sa.png "CC BY-SA Logo")
