@@ -1,6 +1,6 @@
 (footprint "PB_Hor_7x7_2pole" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "Mikro Druckschalter 7x7mm 6-Pin Rastend Typ (https://www.henrik24.de/de_DE/p/Mikro-Druckschalter-7x7mm-6-Pin-Rastend-Typ/274)")
+  (descr "Mikro Druckschalter 7x7mm 2.0mm 6-Pin Rastend Typ (https://www.henrik24.de/de_DE/p/Mikro-Druckschalter-7x7mm-6-Pin-Rastend-Typ/274)")
   (attr through_hole)
   (fp_text reference "REF**" (at -1.5 -4.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
